@@ -1,0 +1,14 @@
+Server: Tengine
+Content-Type: application/json
+Date: Thu, 25 Oct 2018 09:26:45 GMT
+X-Powered-By: PHP/5.6.28
+Cache-Control: no-cache
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 994
+Via: cache43.l2nu17-1[240,200-0,M], cache17.l2nu17-1[241,0], vcache11.cn646[255,200-0,M], vcache3.cn646[257,0]
+Ali-Swift-Global-Savetime: 1540459605
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Thu, 25 Oct 2018 09:26:45 GMT
+X-Swift-Cachetime: 0
+Timing-Allow-Origin: *
+Eagleid: 1bdd389715404596056658272e
